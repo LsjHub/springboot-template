@@ -1,0 +1,9 @@
+spring:
+  redis:
+    url:
+  datasource:
+    url:
+    username:
+    password:
+
+debug: true
